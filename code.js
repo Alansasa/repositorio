@@ -30,7 +30,7 @@ for(l = 0; l < totalLineas; l ++){
     dibujar("black", 0, yi2, xf2, 300);
     dibujar("black", xi2, 0, 300, yf2);
     dibujar("yellow", 0, 0, 0, 300);
-    dibujar("black", 0, 300, 300, 300);
-    dibujar("yellow", 300, 0, 300, 300);
+    dibujar("blue", 0, 300, 300, 300);
+    dibujar("blue", 300, 0, 300, 300);
     dibujar("black", 0, 0, 300, 0);
 }
